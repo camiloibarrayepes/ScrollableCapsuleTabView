@@ -1,5 +1,6 @@
 # ScrollableCapsuleTabView
 Scrollabel Capsule Tabs View SwiftUI
 
+![8529fd3c-48a0-494e-9801-7fceb9f62e67](https://github.com/camiloibarrayepes/ScrollableCapsuleTabView/assets/14959571/aee15750-170b-46fa-b91d-b923a0af9367)
 
-<img width="300" alt="Screenshot 2023-11-11 at 12 43 28 PM" src="https://github.com/camiloibarrayepes/ScrollableCapsuleTabView/assets/14959571/4c782f77-feba-4273-9142-bdefd68f95c0">
+
